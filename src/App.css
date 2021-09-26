@@ -1,11 +1,28 @@
-.App {
-  text-align: center;
+.app-container{
+  padding: 50px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+@media screen and (max-width: 480px) {
+  .app-container{
+      padding: 25px;
+      text-align: center;
+  }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

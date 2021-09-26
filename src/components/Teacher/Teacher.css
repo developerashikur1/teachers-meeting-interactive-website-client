@@ -1,0 +1,82 @@
+/* card body */
+.teacher-container{
+    height: 385px;
+    text-align: center;
+    box-shadow: 0px 1px 50px rgb(192, 192, 192);
+    position: relative;
+    padding: 0px 10px 0px 10px;
+    border-radius: 3px;
+}
+
+/* card image */
+.teachers-image{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.teachers-image img{
+    width: 45%;
+    padding: 5px;
+    border-radius: 100%;
+    border: 3px solid #FF5842;
+    box-shadow: 0 1px 10px rgba(255, 166, 0, 0.507);
+    background-color: rgba(128, 128, 128, 0.178);
+}
+
+
+/* card details */
+.teachers-detail{
+    color: rgb(66, 66, 66);
+    line-height: 5px;
+}
+
+/* card button */
+.teacher-container button{
+    height: 40px;
+    width: 100%;
+    background-color: #FF5842;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border: none;
+    cursor: pointer;
+    color: whitesmoke;
+    font-size: 1rem;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+/* card icon */
+.teacher-container button .fa-shopping-cart{
+    color: rgb(59, 59, 59);
+}
+
+.icons{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-icon{
+    color: #FF5842;
+    background-color: white;
+    padding: 7px;
+    border-radius: 100%;
+    box-shadow: inset 0px 1px 5px grey;
+    cursor: pointer;
+}
+
+.social-icon:hover{
+    background-color: #FF5842;
+    color: white;
+    box-shadow: 0px 1px 5px rgb(167, 167, 167);
+    transform: scale(1.2);
+    transition: ease-in .3s;
+}
+
+/* mobile */
+@media screen and (max-width: 480px) {
+    .teacher-container{
+       height: 450px;
+    }
+}

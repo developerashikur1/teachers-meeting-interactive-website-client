@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Nanette Burch",
+    "img": "https://randomuser.me/api/portraits/men/34.jpg",
+    "email": "Jeffery@juwan.us",
+    "salary": 45000,
+    "id": 1,
+    "age": 28,
+    "phone": "+1 (937) 469-2730"
+  },
+  {
+    "name": "Brandy Conway",
+    "img": "https://randomuser.me/api/portraits/men/44.jpg",
+    "email": "Sophia@arianna.co.uk",
+    "salary": 54000,
+    "id": 2,
+    "age": 29,
+    "phone": "+1 (998) 461-3193"
+  },
+  {
+    "name": "Savannah Richardson",
+    "img": "https://randomuser.me/api/portraits/men/40.jpg",
+    "email": "Khalil@emile.co.uk",
+    "salary": 65000,
+    "id": 3,
+    "age": 30,
+    "phone": "+1 (860) 462-3175"
+  },
+  {
+    "name": "Cohen Montoya",
+    "img": "https://randomuser.me/api/portraits/men/61.jpg",
+    "email": "Noemie@marques.me",
+    "salary": 45100,
+    "id": 4,
+    "age": 40,
+    "phone": "+1 (879) 425-3867"
+  },
+  {
+    "name": "Faye Porter",
+    "img": "https://randomuser.me/api/portraits/men/91.jpg",
+    "email": "Mariana_Orn@preston.org",
+    "salary": 44000,
+    "id": 5,
+    "age": 23,
+    "phone": "+1 (859) 429-3394"
+  },
+  {
+    "name": "Collier Sears",
+    "img": "https://randomuser.me/api/portraits/men/94.jpg",
+    "email": "Madelynn.Gorczany@darion.biz",
+    "salary": 35000,
+    "id": 6,
+    "age": 26,
+    "phone": "+1 (925) 541-2447"
+  },
+  {
+    "name": "Cynthia Cherry",
+    "img": "https://randomuser.me/api/portraits/men/14.jpg",
+    "email": "Vincenza_Klocko@albertha.name",
+    "salary": 45130,
+    "id": 7,
+    "age": 25,
+    "phone": "+1 (966) 428-3658"
+  },
+  {
+    "name": "Finley Baird",
+    "img": "https://randomuser.me/api/portraits/men/82.jpg",
+    "email": "Preston_Hudson@blaise.tv",
+    "salary": 54310,
+    "id": 8,
+    "age": 30,
+    "phone": "+1 (846) 564-3348"
+  },
+  {
+    "name": "Nettie Poole",
+    "img": "https://randomuser.me/api/portraits/men/64.jpg",
+    "email": "Nathan@solon.io",
+    "salary": 74500,
+    "id": 9,
+    "age": 29,
+    "phone": "+1 (899) 473-3754"
+  },
+  {
+    "name": "Joseph Bass",
+    "img": "https://randomuser.me/api/portraits/men/13.jpg",
+    "email": "Maynard.Hodkiewicz@roberta.com",
+    "salary": 38000,
+    "id": 10,
+    "age": 30,
+    "phone": "+1 (862) 519-3313"
+  },
+  {
+    "name": "Delgado Lester",
+    "img": "https://randomuser.me/api/portraits/men/29.jpg",
+    "email": "Oswald.Vandervort@leanne.org",
+    "salary": 36999,
+    "id": 11,
+    "age": 28,
+    "phone": "+1 (872) 540-3750"
+  },
+  {
+    "name": "Latonya Webb",
+    "img": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "Veronica_Goodwin@timmothy.net",
+    "salary": 28777,
+    "id": 12,
+    "age": 31,
+    "phone": "+1 (831) 471-3059"
+  },
+  {
+    "name": "Browning Soto",
+    "img": "https://randomuser.me/api/portraits/men/37.jpg",
+    "email": "Carmen_Keeling@caroline.name",
+    "salary": 78444,
+    "id": 13,
+    "age": 26,
+    "phone": "+1 (822) 425-2923"
+  },
+  {
+    "name": "Lina Wooten",
+    "img": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "Meghan_Littel@rene.us",
+    "salary": 49999,
+    "id": 14,
+    "age": 39,
+    "phone": "+1 (870) 530-2959"
+  }
+]

@@ -1,0 +1,17 @@
+/* header */
+.header-container{
+    background-color: #FF5842;
+    color: whitesmoke;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 400;
+    padding: 15px 0;
+}
+
+.header-container span{
+    color: gold;
+}
+
+.header-container h1{
+    font-size: 3rem;
+}
